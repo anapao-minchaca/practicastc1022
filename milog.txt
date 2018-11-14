@@ -1,0 +1,125 @@
+commit 81d7743066e17b7e675394d478f70a0765a969c0
+Merge: b81c0d4 43f9822
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Nov 7 11:30:53 2018 -0600
+
+    resolvi conflictos
+
+commit b81c0d497a3d7b2809c238fa6fbf52e9a4be45cb
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Nov 7 11:25:43 2018 -0600
+
+    actualizacion local
+
+commit 43f9822445183e930084b9e479ebaf2feb5e81a7
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:53 2018 -0600
+
+    Update tarea10.txt
+    
+    modificación remota de tarea 10
+
+commit 0812b749e3b0c65c841e787da938746491f351ba
+Merge: 33d783d f3de97c
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Nov 7 11:15:34 2018 -0600
+
+    Merge branch 'master' of https://github.com/anapao-minchaca/practicastc1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit f3de97cb4c1f9e7ec4d08f569fad0d54b8f22aea
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:45 2018 -0600
+
+    Rename tarea11 to tarea11.txt
+
+commit 83b16a809bd9c2ab4b92e495ab51b283488a7632
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:51 2018 -0600
+
+    Create tarea11
+    
+    subí mi tarea en el repositorio remoto
+
+commit 33d783de51c9f49aec58592333582e0a85dd4215
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Nov 7 11:11:09 2018 -0600
+
+    tarea local
+
+commit 71c59aef96704b98c89cf549d8a73e001a122b02
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Sat Oct 27 23:58:33 2018 -0500
+
+    Add files via upload
+
+commit ddbc393d86bb15ab55ca5048ad3afe46b261e9fc
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Oct 24 12:02:54 2018 -0500
+
+    Delete A01027446MyPrivateKey.gpg
+    
+    se eliminó la llave privada KAREN
+
+commit fe5de39bf5b5af9be681a49598a8ba7333837be3
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Oct 24 11:58:09 2018 -0500
+
+    exportar llaves publicas y privadas KAREN
+
+commit f278cf809f8c8d8f3abd2de4b34a951b6d492cca
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Oct 24 11:37:54 2018 -0500
+
+    exportar tarea
+
+commit 3503422b950812833499a098e3ae11e40cdbc62e
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Oct 24 11:31:13 2018 -0500
+
+    Add files via upload
+    
+    tarea plática drink iq
+
+commit 3d5812e1d3dfd46ecd4e20ce18703f78558b64e0
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Oct 24 11:30:06 2018 -0500
+
+    Delete Ana Paola Minchaca García - T1.1.plática Drink IQ.docx
+
+commit 9ec19005b1f370318881e625d81b561de286155f
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Oct 24 11:02:25 2018 -0500
+
+    Add files via upload
+    
+    llave del profesor
+
+commit 20b19aba1ef4fa96bf8a4f2b7e5cb188bc0f57cb
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Oct 24 10:58:27 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit 3890d5f980ed70d43f517b74f4f0777f16db4b52
+Author: anapao-minchaca <42215143+anapao-minchaca@users.noreply.github.com>
+Date:   Wed Oct 24 10:52:25 2018 -0500
+
+    Delete myPrivateKey.gpg
+    
+    se eliminó la llave privada
+
+commit a381e833012cada2bec27a149aff62db0a701a28
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Oct 24 10:42:11 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 30f73d2fdd02b03e2475c5873cc1fefa8ce170d7
+Author: anapao-minchaca <A01026744@itesm.mx>
+Date:   Wed Oct 10 12:18:10 2018 -0500
+
+    primer commit
